@@ -1,4 +1,4 @@
-requests>=2.13.0
+requests>=2.32.4
 CherryPy>=10.1.1
 git+https://github.com/oaubert/python-vlc.git#egg=python-vlc
 pyalsaaudio>=0.8.4
